@@ -1,6 +1,6 @@
 FROM ubuntu:16.04
 
-MAINTAINER Jay.M.Hu<hm910705@163.com>
+LABEL author=Jay.M.Hu<hm910705@163.com>
 
 COPY dist /dist
 
